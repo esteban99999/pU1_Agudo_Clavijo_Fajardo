@@ -22,7 +22,7 @@ public class PU1_Agudo_Clavijo_Fajardo {
         perro1.raza="pug";
         perro1.edad=5;
         
-        perro2.nombre="koke";
+        perro2.nombre="koc";
         perro2.raza="labrador";
         perro2.edad=6;
         
